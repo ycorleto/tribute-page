@@ -1,4 +1,4 @@
-Created a tribute page with the following user stories guidelines provided by freeCodeCamp.org
+Created a tribute page with the following user stories conditions provided by freeCodeCamp.org
 
 User Story #1: My tribute page should have an element with a corresponding id="main", which contains all other elements.
 
