@@ -10,7 +10,7 @@ User Story #7: I should see an a element with a corresponding id="tribute-link",
 User Story #8: The img element should responsively resize, relative to the width of its parent element, without exceeding its original size.
 User Story #9: The img element should be centered within its parent element.
 
-I added code not specified above to enhance the visual appeal of the page.
+Personal touch: I added code not specified above to enhance the styling of the page.
 -   repeating-linear-gradient()
 -   rgb()
 -   border-radius
