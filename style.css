@@ -15,8 +15,7 @@ p {
     padding: 6px 0px 0px 40px;
 }
 #main{
-    margin: auto;
-    padding: 0px 0px 30px 0px;
+    margin: 30px auto 30px auto;
     border-radius: 10px;
     background: rgb(202, 171, 133);
     width: 75%;
@@ -50,10 +49,12 @@ img{
     margin: 15px 0 5px 0;
 }
 #tribute-info{
-
+    background: linear-gradient(180deg,rgb(202, 171, 133), rgb(233, 208, 178) );
+    padding: 0px 0px 30px 0px;
 }
 #tribute-link{
-
+    color: brown;
+    font-weight: bold;
 }
 li {
     margin: 16px 0px 16px 0px;
